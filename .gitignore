@@ -1,0 +1,6 @@
+/.git
+**/.idea/workspace.xml
+/packages
+
+/*/bin
+/*/obj
